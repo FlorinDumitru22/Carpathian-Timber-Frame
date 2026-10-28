@@ -19,7 +19,7 @@
     "jose": "^5.1.3",
     "stripe": "^14.8.0",
     "react-hook-form": "^7.49.2",
-    "zod": "^3.22.4",
+    "zod": "^4.6.6",
     "@hookform/resolvers": "^3.3.3",
     "clsx": "^2.0.0",
     "tailwind-merge": "^2.2.0"
